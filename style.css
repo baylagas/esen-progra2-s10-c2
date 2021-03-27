@@ -155,8 +155,8 @@ header ul li a{
 
 @media (max-width: 991px){
     section{
-        a:0;
-        b:0;
+        padding:40px;
+        padding-bottom:140px;
     }
 
     header{
