@@ -164,8 +164,8 @@ header ul li a{
     }
 
     header .logo{
-        a:none;
-        b:0px;
+        position: relative;
+        max-width:60px;
     }
 
     header ul{
