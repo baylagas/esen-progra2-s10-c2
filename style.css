@@ -229,9 +229,9 @@ header ul li a{
     }
 
     .content .textBox{
-        a: none;
-        b: 0%;
-        c: 0px;
+        position: relative;
+        max-width: 100%;
+        padding-right: 20px;
     }
 
     .content .textBox h2{
