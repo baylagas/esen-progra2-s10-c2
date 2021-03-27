@@ -204,12 +204,12 @@ header ul li a{
     }
 
     .toggleMenu{
-        position:none;
-        width: 0px;
-        height: 0px;
+        position:relative;
+        width: 40px;
+        height: 40px;
         background: url(/img/menu.png);
         background-position: center;
-        background-size: 0px;
+        background-size: 30px;
         background-repeat: no-repeat;
         z-index: 2;
         cursor: pointer;
