@@ -160,7 +160,7 @@ header ul li a{
     }
 
     header{
-        a:0px 0px;
+        padding:20px 40px;
     }
 
     header .logo{
@@ -185,8 +185,8 @@ header ul li a{
     }
 
     header ul.active{
-        a:none;
-        b: 0;
+        visibility:visible;
+        opacity: 1;
     }
 
     header ul li a{
